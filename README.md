@@ -60,5 +60,3 @@ SDC 통계데이터 인공지능 활용대회(자연어 기반 인공지능 산�
 	- 피드백 : label이 많을 경우에 대한 예측 방식 search 필요, 
 	
 	          Sequential 모델 제외한 다른 모델 습득 기회 필요, Bert 모델 기본 사용 가능 → 응용 방법 습득 필요
-			
-*보러가기: [자연어 기반 인공지능 산업분류 자동화](https://github.com/bluemumin/stat_data_ai_app_contest)*
