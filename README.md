@@ -47,7 +47,7 @@ SDC 통계데이터 인공지능 활용대회(자연어 기반 인공지능 산�
 	
  (c). Report & Review
  
-	- 최종 등수 : (58등/395팀) / accuracy : 88.57% / F1-score : 0.765 / [팀 수 확인 출처](https://www.boannews.com/media/view.asp?idx=106557)
+	- 최종 등수 : (58등/395팀) / accuracy : 88.57% / F1-score : 0.765
 	
 	- 긍정적 사항 : Bert 모델 사용 시도 및 NLP 모델 생성을 위한 다양한 시도 수행
 	
@@ -56,5 +56,7 @@ SDC 통계데이터 인공지능 활용대회(자연어 기반 인공지능 산�
 	- 피드백 : label이 많을 경우에 대한 예측 방식 search 필요, 
 	
 	          Sequential 모델 제외한 다른 모델 습득 기회 필요, Bert 모델 기본 사용 가능 → 응용 방법 습득 필요
+		  
+[팀 수 확인 출처](https://www.boannews.com/media/view.asp?idx=106557)
 
 ![](https://github.com/bluemumin/stat_data_ai_app_contest/blob/main/%EB%93%B1%EC%88%98.PNG)
